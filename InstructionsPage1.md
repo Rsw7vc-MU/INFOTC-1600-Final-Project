@@ -43,5 +43,25 @@ _Although this is a software suited more for streaming it is still a very good p
   
 ### 3. Now you have a source to record with Streamlabs OBS!
 
-More information about this section to know is that with these other sections is the display and how to use and error fixing can be found [here!](https://streamlabs.com/content-hub/support/support-streamlabs-obs). Any other info need can be found there as well about setting up other feature within the software that you could use in presentations or live streams!
+  ![AddedSource](AddedSourceFinished.PNG)
+
+More information about this section to know is that with these other sections is the display and how to use and error fixing can be found [here!](https://streamlabs.com/content-hub/support/support-streamlabs-obs) Any other info need can be found there as well about setting up other feature within the software that you could use in presentations or live streams!
+
+## Audio/Mic Setup
+### 1. First you want to go to the **Mixer** section and select the highlighted gear icon to then go to the properties section, as seen below:
+
+![Mixer section](Mic-AudioSection.PNG)
+
+### 2. After clicking Properties you should see this screen, pictured below, and then select the output audio you want then click done
+
+![AudioSettings](MicSetting.PNG)
+
+### 3. Now to setup Your Microphone
+   * First scroll in the mixer section till you see the mic settings gear icon, as picutred below
+
+   ![Scrolledmixerpic](ScrolledToMicrophone.PNG)
+
+   * Now click the gear icon then click **properties**, which should lead you to the following window. Then select the microphone you want recorded and click done when finished.
+
+   ![Microphonesettings](MicrophoneSettings.PNG)
   
