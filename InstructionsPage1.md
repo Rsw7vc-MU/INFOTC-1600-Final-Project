@@ -88,4 +88,4 @@ More information about this section to know is that with these other sections is
   
 ### 3. Now Click done when you have your setting how you would like them and now you are all setup for recording and posting 
 
-**Please proceed the InstructionsPage2.md to continue with the instructions**
+## __Please proceed the InstructionsPage2.md to continue with the instructions__
