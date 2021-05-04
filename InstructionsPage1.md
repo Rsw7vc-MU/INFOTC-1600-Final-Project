@@ -39,5 +39,5 @@ _Although this is a software suited more for streaming it is still a very good p
 
   * Next you will see a window pop up for the _Setting for Display Capture_, and then you will select your display that you need for recording.
 
-  ![DisplaySettings/Selection](DisplaySetting.PNG)
+  ![DisplaySettings/Selection](DisplaySettings.PNG)
   
