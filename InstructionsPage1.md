@@ -67,3 +67,25 @@ More information about this section to know is that with these other sections is
   
 ### 4. You now have Audio Ouput and your Microphone setup to record!
   
+## Recording Settings & Setup
+### 1. Click the gear icon in the bottom left side tab, as pictured below:
+
+![SettingsIcon](MainSettingsButton.PNG)
+
+### 2. After clicking the gear icon this window should popup:
+  * Click **Output** in the left side of the window
+  * Scroll till you see the **Recording**
+
+![Setting for recording](RecordingVideoSetttings.PNG)
+
+  * Now in this section you can edit the file path for your recordings
+  
+  ![file path pic](RecordingPathSection.PNG)
+  
+  * And you can edit the Qualiting and Format of your recordings
+
+  ![Quality and Format pic](RecordingQuality-FormatSections.PNG)
+  
+### 3. Now Click done when you have your setting how you would like them and now you are all setup for recording and posting 
+
+**Please proceed the InstructionsPage2.md to continue with the instructions**
