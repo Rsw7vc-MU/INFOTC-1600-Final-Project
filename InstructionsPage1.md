@@ -32,3 +32,12 @@ _Although this is a software suited more for streaming it is still a very good p
   * In this window Click **Display Capture** and have no widgets selected/clicked, then Click **Add Source** in the bottom left of the window.
 
   ![AddingSource](AddingSource.PNG)
+  
+  * Now added/edit a name for your display capture and then Click **Add Source**
+
+  ![AddingDisplayName](DisplayName.PNG)
+
+  * Next you will see a window pop up for the _Setting for Display Capture_, and then you will select your display that you need for recording.
+
+  ![DisplaySettings/Selection](DisplaySetting.PNG)
+  
