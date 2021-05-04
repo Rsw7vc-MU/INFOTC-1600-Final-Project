@@ -37,7 +37,11 @@ _Although this is a software suited more for streaming it is still a very good p
 
   ![AddingDisplayName](DisplayName.PNG)
 
-  * Next you will see a window pop up for the _Setting for Display Capture_, and then you will select your display that you need for recording.
+  * Next you will see a window pop up for the _Setting for Display Capture_, and then you will select your display that you need for recording. And hit **Done** when you're finished
 
   ![DisplaySettings/Selection](DisplaySettings.PNG)
+  
+### 3. Now you have a source to record with Streamlabs OBS!
+
+More information about this section to know is that with these other sections is the display and how to use and error fixing can be found [here!](https://streamlabs.com/content-hub/support/support-streamlabs-obs). Any other info need can be found there as well about setting up other feature within the software that you could use in presentations or live streams!
   
