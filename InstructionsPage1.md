@@ -29,6 +29,6 @@ _Although this is a software suited more for streaming it is still a very good p
    ![Section pic](SectionPic.PNG)
    
   * After clicking the plus icon this window should apppear.
-  * In this window Click **Display Capture** and then Click **Add Source** in the bottom left of the window.
+  * In this window Click **Display Capture** and have no widgets selected/clicked, then Click **Add Source** in the bottom left of the window.
 
   ![AddingSource](AddingSource.PNG)
