@@ -65,3 +65,5 @@ More information about this section to know is that with these other sections is
 
    ![Microphonesettings](MicrophoneSettings.PNG)
   
+### 4. You now have Audio Ouput and your Microphone setup to record!
+  
