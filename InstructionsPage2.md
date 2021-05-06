@@ -64,7 +64,7 @@
 
 ![Video UploadedPic](VideoUploadFinal.PNG)
 
- * Here is the platofrms you cna share your video on!:
+ * Here is the platofrms you cna share your video on!
 
 ![Socials Pic](SharingPic.PNG)
 
