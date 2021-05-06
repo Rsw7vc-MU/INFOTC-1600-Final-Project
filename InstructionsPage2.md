@@ -6,7 +6,7 @@
 ![RecordButton](RecordButton.PNG)
 
 2. Options when record:
-  * You can mute or change the the volume of your computer or your mic by clicking/dragging the highighted volume/sound icon and arrow bar
+  * You can mute or change the the volume of your computer or your mic by clicking/dragging the highighted volume/sound icon and arrow bar.
   
  ![VolumeControlsPic](VolmueControlsButtons.PNG)
   * You can also edit the settings of your sound in the Advanced Audio Settings
@@ -17,4 +17,14 @@
 
     ![AdvancedAudioOptions](MixerSettings.PNG)
 
-3. Once you have the recording you want now we can go to our 
+3. Now its time to record, just follow the steps of starting and stoping your recording and now we can go get it and then publish it!
+
+4.Finding the recording! 
+  * To get the recording you first need to go to the location on your computer that you set the _Recording Path_ to get the video.
+    * The recording Path can be found by clicking the **Settings** gear icon. 
+    * Click Output in the left side of the window.
+    * Scroll till you see the Recording Path.
+    * For further instruction if needed refer to **InstructionsPage1**.
+
+![Recording Path Pic](RecordingPathFind.PNG)
+## 
