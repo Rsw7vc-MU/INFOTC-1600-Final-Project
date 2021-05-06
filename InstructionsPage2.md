@@ -71,4 +71,4 @@
 
 ![Socials Pic](SharingPic.PNG)
 
-> I hope these instructions were able to help you in learninghow to record and publish recording of your computer's display! Also here is a link to my video upload from the instructions: ["INFOTC 1600 Final Project Video Example"](https://www.youtube.com/watch?v=hMrLOnR6vrs)
+> I hope these instructions were able to help you in learning how to record and publish a screen recording of your computer's display! Also here is a link to my video uploaded from the instructions: ["INFOTC 1600 Final Project Video Example"](https://www.youtube.com/watch?v=hMrLOnR6vrs)
