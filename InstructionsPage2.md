@@ -32,6 +32,8 @@
 
 1. Now that you have your recorded video, go to [YouTube.com](https://www.youtube.com/) and log in if you are not already! Once Logged in please click the icon showed below and click **Upload Video**!
 
- ![Upload Video icon](UploadIcon.PNG) ![Upload Video Click Pic](UploadVideoPic.PNG)
+ ![Upload Video icon](UploadIcon.PNG) 
+ 
+ ![Upload Video Click Pic](UploadVideoPic.PNG)
 
 2. 
