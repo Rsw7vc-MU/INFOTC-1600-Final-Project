@@ -36,4 +36,26 @@
  
  ![Upload Video Click Pic](UploadVideoPic.PNG)
 
-2. 
+2. Now a window, as shown below, should pop up and now you want to select and upload the recording file from the location of the Recording Path.
+
+ ![Upload File Pic](FileTransfer.PNG)
+
+3. After choosing your file you should be brough to this page to edit the details of your recording like the title, description, thumbnail and much more. And then when you have all the details to how you want them click **Next**.
+ * Below is a picture of what this window should look like:
+
+![Details editing Pic](VideoUploadDetailsPage.PNG)
+
+4. Next you will be sent to the **Video Elements Page** and here you are able to add subtitles, add an end screen, and add cards to the video! When you are done just click next to proceed in the uploading process!
+ * Here is picture of the **Video Elemetns Page**:
+
+![VideoElementsPage](VideoElementsPage.PNG)
+
+5. After the **Video Elements Page**, you will now be on the **Checks Page**. This page is for YouTube to show the check they do on your video of different things like _copyright_.
+ * This is a photo of the **Checks Page**:
+
+![ChecksPagePic](ChecksPage.PNG)
+
+6. Now the last page of the publishing process. This page is the **Visibility Page**, here is where you cna setup the settings for the upload of either public posting or privately posting the record and also you can schedule the recording upload!
+ * Here is a photo of the **Visibility Page**.
+
+![VisibilityPagePic](VisibilitySettings.PNG)
