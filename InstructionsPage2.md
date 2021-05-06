@@ -31,7 +31,7 @@
 > In these next instructions I will be showing how to take your recording and publish it, I will be using YouTube as the example platoform.
 
 ### YouTube
-> I will be using [YouTube.com](https://www.youtube.com/) for the upload process in this tutorial. For this you will need to make a google email. For instruction on doing that please click [here!](https://support.google.com/accounts/answer/27441?hl=en)
+> I will be using [YouTube.com](https://www.youtube.com/) for the upload process in this tutorial. For this you will need to make a google email/account. For instructions on creating an account please click [here!](https://support.google.com/accounts/answer/27441?hl=en)
 
 1. Now that you have your recorded video, go to [YouTube.com](https://www.youtube.com/) and log in if you are not already! Once Logged in please click the icon showed below and click **Upload Video**!
 
