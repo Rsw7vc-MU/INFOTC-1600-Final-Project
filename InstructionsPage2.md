@@ -22,12 +22,17 @@
 4. Finding the recording! 
   * To get the recording you first need to go to the location on your computer that you set the _Recording Path_ to get the video.
     * The recording Path can be found by clicking the **Settings** gear icon. 
-    * Click Output in the left side of the window.
+    * Click **Output** in the left side of the window.
     * Scroll till you see the Recording Path.
     * For further instruction if needed refer to **InstructionsPage1**.
 
 ![Recording Path Pic](RecordingPathFind.PNG)
 ## Publing Time!
-> I will be using ![YouTube.com](https://www.youtube.com/) for the upload process in this tutorial. For this you will need to make a google email. For instruction on doing that please click ![here](https://support.google.com/accounts/answer/27441?hl=en)
+> I will be using [YouTube.com](https://www.youtube.com/) for the upload process in this tutorial. For this you will need to make a google email. For instruction on doing that please click [here!](https://support.google.com/accounts/answer/27441?hl=en)
 
-1. Now that you have your recorded video
+1. Now that you have your recorded video, go to [YouTube.com](https://www.youtube.com/) and log in if you are not already! Once Logged in please click the icon showed below and click **Upload Video**!
+
+![Upload Video icon](UploadIcon.PNG)
+
+![Upload Video Click Pic](UploadVideoPic.PNG)
+2. 
