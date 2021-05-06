@@ -59,3 +59,13 @@
  * Here is a photo of the **Visibility Page**.
 
 ![VisibilityPagePic](VisibilitySettings.PNG)
+
+7. When you are all finished with setting up the upload of your recording you can go ahead and click the **Publish** button and the video, if published publically, will show up under your accounts videos for anyone to view. Also you can share the link to your video however you would like and YouTube has capabilities to autmatically share though othe social media platforms!
+
+![Video UploadedPic](VideoUploadFinal.PNG)
+
+ * Here is the platofrms you cna share your video on!:
+
+![Socials Pic](SharingPic.PNG)
+
+> I hope these instructions were able to help you in learninghow to record and publish recording of your computer's display!
