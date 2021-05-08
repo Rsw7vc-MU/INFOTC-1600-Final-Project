@@ -1,6 +1,6 @@
 # INFOTC-1600-Final-Project
 Purspose of this project: Create a tutorial in markdown that is hosted on GitHub and focuses on a digital concept, system, or process.
-# Porject Information
+# Project Information
 **Title: How to record and publish display/window videos**
 
 **Author: Ryan Woods - Rsw7vc**
